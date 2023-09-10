@@ -39,3 +39,9 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
             balances[_from] -= _value;
         }
     }
+
+ # Author
+ Swatantra Singh
+
+ # License
+ This project is licensed under the MIT License - see the LICENSE.md file for details
